@@ -402,6 +402,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* mltshp */
+.button.button-mltshp {
+  color: #000000;
+  background-color: #dbfaff;
+}
+.button.button-mltshp:hover,
+.button.button-mltshp:focus {
+  filter: brightness(90%);
+}
+
 /* Notion */
 .button.button-notion {
   color: #000000;
