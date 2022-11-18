@@ -177,7 +177,7 @@ button:hover,
 /* cohost */
 .button.button-cohost {
   color: #ffffff;
-  background-color: 131 37 79;
+  background-color: rgb(131 37 79);
 }
 .button.button-cohost:hover,
 .button.button-cohost:focus {
